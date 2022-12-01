@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 21.9033,
+        "lat": 43.3247
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 276.13,
+        "feels_like": 276.13,
+        "temp_min": 274.97,
+        "temp_max": 276.14,
+        "pressure": 1019,
+        "humidity": 87
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1669907242,
+    "sys": {
+        "type": 1,
+        "id": 7031,
+        "country": "RS",
+        "sunrise": 1669873489,
+        "sunset": 1669906695
+    },
+    "timezone": 3600,
+    "id": 787657,
+    "name": "Niš",
+    "cod": 200
+}
